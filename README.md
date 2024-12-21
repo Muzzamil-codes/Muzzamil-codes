@@ -18,8 +18,8 @@ Hi there! I'm a **high School student** passionate about **coding** and creating
 ## 💼 Projects
 Here are some of my favorite projects:
 
-### 📸 [Django Bloggin App](https://github.com/Muzzamil-codes/BloggingApp)
-- Simple **Django** app that creates allows SuperUsers to create blogs.
+### 🌐 [Django Bloggin App](https://github.com/Muzzamil-codes/BloggingApp)
+- Simple **Django** app that allows SuperUsers to create blogs.
 - Also Has Subscribers feature that allows a visitor to subscribe to the website which sends email notifications to them.
 
 ### 📸 [Instagram Automation](https://github.com/Muzzamil-codes/Instagram-Automation)
