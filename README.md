@@ -3,13 +3,13 @@
 <!-- ![Profile Banner](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Profile)  -->
 
 ## 👨‍💻 About Me
-Hi there! I'm a **high School student** passionate about **coding** and creating innovative solutions. Despite being a hobbyist developer, I love diving into challenges, learning, and experimenting with new ideas. My primary language is **Python**, and I've worked on various projects that combine creativity and functionality.
+Hi there! I'm passionate about **coding** and creating innovative solutions. Despite being a hobbyist developer, I love diving into challenges, learning, and experimenting with new ideas. My primary language is **Python**, but I have worked on Javascript as well and make plenty of Websites using next.js and tailwindcss and I've worked on various projects that combine creativity and functionality.
 
 ---
 
 ## 🔧 Skills
-- **Languages:** Python 🐍
-- **Frameworks:** Django 🌐, Tkinter 📊
+- **Languages:** Python 🐍, Javascript 🍵
+- **Frameworks:** Django 🌐, Tkinter 📊, next.js 
 - **Tools & Technologies:** Socket Programming, MoviePy, Instagrapi, APIs, Discord Bot Development
 - **Interests:** Automation, Web Development, and Building Fun Bots 🤖
 
