@@ -7,10 +7,14 @@ Hi there! I'm passionate about **coding** and creating innovative solutions. My 
 
 ---
 
+## 🧑‍💻 Languages
+[![My Skills](https://skillicons.dev/icons?i=python,django,js,nextjs,html,css)](https://skillicons.dev)
+
+---
+
 ## 🔧 Skills
-- **Languages:** Python 🐍, Javascript 🍵
-- **Frameworks:** Django 🌐, Tkinter 📊, next.js 
-- **Tools & Technologies:** Socket Programming, MoviePy, APIs, Discord Bot Development, node.js
+- **Frameworks:** Django 🌐, Tkinter 📊, next.js ⚡, crewai 🧠
+- **Tools & Technologies:** Socket Programming, MoviePy, APIs, Discord Bot Development, Ai Agents.
 - **Interests:** Automation, Web Development, and Building Fun Bots 🤖
 
 ---
