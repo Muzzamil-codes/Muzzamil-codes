@@ -27,8 +27,11 @@ Here are some of my favorite projects:
 - Also Has Subscribers feature that allows a visitor to subscribe to the website which sends email notifications to them.
 
 ### 📅 [Website using next.js](https://github.com/Muzzamil-codes/simplydebug)
-- Creates a schedule based on **Islamic prayer times** fetched from an API.
-- Sends **real-time notifications** about what to do at specific times.
+- A **landing page** for a webdesining agency with a functional Form submission backend.
+
+## ⚙️ [Multi AI Agent system](https://github.com/Muzzamil-codes/emailautomation)
+- An **Email marketing Automation** using Gemini LLM of google that makes personalized emails for a company.
+- Can be accessed and used using discord bot commands.
 
 ### 📸 [Instagram Automation](https://github.com/Muzzamil-codes/Instagram-Automation)
 - Automates the creation of **reels** using `MoviePy` and captions.
