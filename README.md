@@ -3,7 +3,7 @@
 <!-- ![Profile Banner](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Profile)  -->
 
 ## 👨‍💻 About Me
-Hi there! I'm passionate about **coding** and creating innovative solutions.My primary language is **Python**, and I have worked on Javascript as well and made plenty of Websites using next.js and tailwindcss. I've worked on various projects that combine creativity and functionality.
+Hi there! I'm passionate about **coding** and creating innovative solutions. My primary language is **Python**, and I have worked on Javascript as well and made plenty of Websites using next.js and tailwindcss. I've worked on various projects that combine creativity and functionality.
 
 ---
 
