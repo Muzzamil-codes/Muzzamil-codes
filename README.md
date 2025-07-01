@@ -27,7 +27,7 @@ Here are some of my favorite projects:
 - Also Has Subscribers feature that allows a visitor to subscribe to the website which sends email notifications to them.
 
 ### 📅 [Website using next.js](https://github.com/Muzzamil-codes/simplydebug)
-- A **landing page** for a webdesining agency with a functional Form submission backend.
+- A **landing page** for a web designing agency with a functional Form submission backend.
 
 ## ⚙️ [Multi AI Agent system](https://github.com/Muzzamil-codes/emailautomation)
 - An **Email marketing Automation** using Gemini LLM of google that makes personalized emails for a company.
