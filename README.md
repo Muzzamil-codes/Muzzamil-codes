@@ -1,73 +1,91 @@
-# Hi, myself Muzzamil👋 Welcome to My GitHub Profile! 🌟
+<h1 align="center">Hey, I'm Muzzamil 👋</h1>
 
-<!-- ![Profile Banner](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Profile)  -->
+<p align="center">
+  <b>Full-Stack Developer · AI Automation Engineer · Python & TypeScript</b><br/>
+  Building AI-powered tools, automation pipelines, and production-ready web apps.
+</p>
 
-## 👨‍💻 About Me
-Hi there! I'm passionate about **coding** and creating innovative solutions. My primary language is **Python**, and I have worked on Javascript as well and made plenty of Websites using next.js and tailwindcss. I've worked on various projects that combine creativity and functionality.
-
----
-
-## 🧑‍💻 Languages
-[![My Skills](https://skillicons.dev/icons?i=python,django,js,nextjs,html,css)](https://skillicons.dev)
-
----
-
-## 🔧 Skills
-- **Frameworks:** Django 🌐, Tkinter 📊, next.js ⚡, crewai 🧠
-- **Tools & Technologies:** Socket Programming, MoviePy, APIs, Discord Bot Development, Ai Agents.
-- **Interests:** Automation, Web Development, and Building Fun Bots 🤖
+<p align="center">
+  <a href="mailto:md.muzzamil2007@gmail.com">📧 Email</a> •
+  <a href="https://github.com/Muzzamil-codes">💻 GitHub</a>
+</p>
 
 ---
 
-## 💼 Projects
-Here are some of my favorite projects:
+## 🧠 What I Build
 
-### 🌐 [Django Blogging App](https://github.com/Muzzamil-codes/BloggingApp)
-- Full Stack **Django** Blogging app that allows SuperUsers to create blogs.
-- Also Has Subscribers feature that allows a visitor to subscribe to the website which sends email notifications to them.
-
-### 📅 [Website using next.js](https://github.com/Muzzamil-codes/simplydebug)
-- A **landing page** for a web designing agency with a functional Form submission backend.
-
-## ⚙️ [Multi AI Agent system](https://github.com/Muzzamil-codes/emailautomation)
-- An **Email marketing Automation** using Gemini LLM of google that makes personalized emails for a company.
-- Can be accessed and used using discord bot commands.
-
-### 📸 [Instagram Automation](https://github.com/Muzzamil-codes/Instagram-Automation)
-- Automates the creation of **reels** using `MoviePy` and captions.
-- Uploads them to Instagram using the `Instagrapi` module.
-
-### 🖥️ [Form Submission with GUI](https://github.com/Muzzamil-codes/Football-Team-Application-Form)
-- A GUI-based form using **Tkinter** to submit user level data.
-- Uses **Socket Programming** to send data from client to server.
-<!--
-### 📝 [Bloggin Website](https://github.com/YourGitHubUsername/form-submission-gui)
-- Built with **Django** with features like:
-  - User authentication (login/logout).
-  - Create, update, delete, and upload blogs.
-  - Email notifications for new blogs to subscribers. -->
-
-### 🎮 [Discord Bot](https://github.com/Muzzamil-codes/Discord-Bot)
-- Includes funny commands to entertain users.
-- Features a **Tic-Tac-Toe** game that two people can play in a server.
+I specialize in building **AI-integrated applications** and **automation systems** — from multi-agent LLM pipelines to full-stack SaaS products. My stack centers around **Python (FastAPI, LangChain)** on the backend and **React + TypeScript (Next.js, Vite)** on the frontend.
 
 ---
 
-## 🚀 My Goals
-- **Short-Term:** Enhance my skills by learning new technologies and frameworks.
-- **Long-Term:** Create impactful tools and solutions that make life easier and more enjoyable.
+## 🔥 Featured Projects
+
+### 🤖 [TeamSyncAI](https://github.com/Muzzamil-codes/TeamSyncAI)
+> WhatsApp chat analyzer powered by Google Gemini — extracts todos, calendar events, and enables RAG-based Q&A over chat history.
+
+`FastAPI` `LangChain` `Gemini 2.5` `React` `TypeScript` `Streaming SSE`
 
 ---
 
-## 🔗 Connect With Me!
-- **GitHub:** [Muzzamil-codes](https://github.com/Muzzamil-codes)
-- **Email:** md.muzzamil2007@gmail.com
+### 📸 [Instagram Automation](https://github.com/Muzzamil-codes/instagramautomation)
+> End-to-end pipeline that auto-generates video reels, adds captions, and publishes directly to Instagram via API.
+
+`Python` `MoviePy` `FFmpeg` `Instagrapi` `Meta API`
 
 ---
 
-### 💡 Fun Fact:
-*"The only way to do great work is to love what you do." – Steve Jobs*
+### ✉️ [AI Email Marketing Agent](https://github.com/Muzzamil-codes/emailautomation)
+> Multi-agent system using Google Gemini that generates personalized cold email campaigns, accessible via Discord bot commands.
+
+`Python` `CrewAI` `Gemini API` `Discord.py`
 
 ---
 
-**Thank you for visiting my profile! Feel free to explore my repositories and drop a 🌟 if you like my work.**
+### 📝 [BlogMdMaker](https://github.com/Muzzamil-codes/BlogMdmaker)
+> AI-powered blog content generator that produces structured markdown blog posts from a topic prompt.
+
+`Python` `LLM` `Markdown`
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+[![Skills](https://skillicons.dev/icons?i=python,ts,js,html,css)](https://skillicons.dev)
+
+### Frameworks & Tools
+[![Skills](https://skillicons.dev/icons?i=fastapi,react,nextjs,vite,tailwind,docker)](https://skillicons.dev)
+
+### AI / Data
+`LangChain` · `Google Gemini` · `CrewAI` · `Supabase` · `FFmpeg`
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muzzamil-codes&show_icons=true&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzzamil-codes&layout=compact&theme=github_dark&hide_border=true" height="165" />
+</p>
+
+---
+
+## 🌐 Live Projects
+
+| Project | Live Link | Stack |
+|---------|-----------|-------|
+| PersianGold | [persiangold.vercel.app](https://persiangold.vercel.app) | TypeScript, Next.js |
+| AlAfaq | [alafaq.vercel.app](https://alafaq.vercel.app) | TypeScript, Next.js |
+| InfinityCleaning | [infinitycleaning.vercel.app](https://infinitycleaning.vercel.app) | TypeScript, Next.js |
+
+---
+
+## 🔭 Currently Building
+- AI video editing automation pipeline (FFmpeg + LLM scripting)
+- Full-stack CRM dashboard (FastAPI + Vite + Supabase)
+
+---
+
+<p align="center">
+  <i>Open to freelance, internship, and full-time opportunities in AI/Automation or Full-Stack development.</i>
+</p>
