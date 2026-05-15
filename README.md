@@ -20,7 +20,7 @@ I specialize in building **AI-integrated applications** and **automation systems
 
 ## 🔥 Featured Projects
 
-### 🤖 [TeamSyncAI](https://github.com/Muzzamil-codes/TeamSyncAI)
+### 🤖 [Video Editor AI](https://github.com/Muzzamil-codes/TeamSyncAI)
 > WhatsApp chat analyzer powered by Google Gemini — extracts todos, calendar events, and enables RAG-based Q&A over chat history.
 
 `FastAPI` `LangChain` `Gemini 2.5` `React` `TypeScript` `Streaming SSE`
@@ -38,13 +38,6 @@ I specialize in building **AI-integrated applications** and **automation systems
 > Multi-agent system using Google Gemini that generates personalized cold email campaigns, accessible via Discord bot commands.
 
 `Python` `CrewAI` `Gemini API` `Discord.py`
-
----
-
-### 📝 [BlogMdMaker](https://github.com/Muzzamil-codes/BlogMdmaker)
-> AI-powered blog content generator that produces structured markdown blog posts from a topic prompt.
-
-`Python` `LLM` `Markdown`
 
 ---
 
