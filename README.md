@@ -1,56 +1,64 @@
 <h1 align="center">Hey, I'm Muzzamil 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Developer · AI Automation Engineer · Python & TypeScript</b><br/>
-  Building AI-powered tools, automation pipelines, and production-ready web apps.
+  <b>Python Developer · AI & Automation Engineer</b><br/>
+  I build multi-agent AI pipelines, automation systems, and ship them as working products.
 </p>
 
 <p align="center">
   <a href="mailto:md.muzzamil2007@gmail.com">📧 Email</a> •
-  <a href="https://github.com/Muzzamil-codes">💻 GitHub</a>
+  <a href="https://github.com/Muzzamil-codes">💻 GitHub</a> •
+  <a href="https://www.linkedin.com/in/muzzamil-codes">📢 LinkedIn</a>
 </p>
 
 ---
 
 ## 🧠 What I Build
 
-I specialize in building **AI-integrated applications** and **automation systems** — from multi-agent LLM pipelines to full-stack SaaS products. My stack centers around **Python (FastAPI, LangChain)** on the backend and **React + TypeScript (Next.js, Vite)** on the frontend.
+I specialize in **AI automation** and **backend-driven applications** — things like multi-agent LLM pipelines, social media automation bots, and AI-powered Discord tools. My core stack is **Python** (FastAPI, LangChain, CrewAI) with React/Next.js on the frontend for shipping complete products.
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🤖 [Video Editor AI](https://github.com/Muzzamil-codes/TeamSyncAI)
-> WhatsApp chat analyzer powered by Google Gemini — extracts todos, calendar events, and enables RAG-based Q&A over chat history.
+### 🤖 [TeamSyncAI](https://github.com/Muzzamil-codes/TeamSyncAI)
+> WhatsApp chat analyzer powered by Google Gemini — extracts todos, calendar events, and enables RAG-based Q&A over your entire chat history via a streaming API.
 
-`FastAPI` `LangChain` `Gemini 2.5` `React` `TypeScript` `Streaming SSE`
+`FastAPI` `LangChain` `Gemini 2.5` `React` `Streaming SSE` `RAG`
 
 ---
 
 ### 📸 [Instagram Automation](https://github.com/Muzzamil-codes/instagramautomation)
-> End-to-end pipeline that auto-generates video reels, adds captions, and publishes directly to Instagram via API.
+> Fully automated Reels pipeline — pulls Reddit shower thoughts, generates tags + GIFs via CrewAI, renders a video, and publishes directly to Instagram. Tracks post performance in CSV.
 
-`Python` `MoviePy` `FFmpeg` `Instagrapi` `Meta API`
+`Python` `CrewAI` `MoviePy` `FFmpeg` `Meta Graph API` `Discord.py`
 
 ---
 
 ### ✉️ [AI Email Marketing Agent](https://github.com/Muzzamil-codes/emailautomation)
-> Multi-agent system using Google Gemini that generates personalized cold email campaigns, accessible via Discord bot commands.
+> Multi-agent system that researches leads and writes personalized cold email campaigns — fully controlled via Discord slash commands with background async processing.
 
-`Python` `CrewAI` `Gemini API` `Discord.py`
+`Python` `CrewAI` `Gemini API` `Discord.py` `FastAPI`
+
+---
+
+### 📝 [BlogMdMaker](https://github.com/Muzzamil-codes/BlogMdmaker)
+> AI-powered blog content generator — takes a topic prompt and produces a fully structured, markdown-formatted blog post ready to publish.
+
+`Python` `LLM` `Django` `Markdown`
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-[![Skills](https://skillicons.dev/icons?i=python,ts,js,html,css)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
 
 ### Frameworks & Tools
-[![Skills](https://skillicons.dev/icons?i=fastapi,react,nextjs,vite,tailwind,docker)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=fastapi,react,nextjs,tailwind)](https://skillicons.dev)
 
-### AI / Data
-`LangChain` · `Google Gemini` · `CrewAI` · `Supabase` · `FFmpeg`
+### AI / Automation
+`LangChain` · `CrewAI` · `Google Gemini` · `FFmpeg` · `Supabase` · `Discord.py`
 
 ---
 
@@ -58,27 +66,28 @@ I specialize in building **AI-integrated applications** and **automation systems
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muzzamil-codes&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzzamil-codes&layout=compact&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzzamil-codes&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165" />
 </p>
 
 ---
 
 ## 🌐 Live Projects
 
-| Project | Live Link | Stack |
-|---------|-----------|-------|
-| PersianGold | [persiangold.vercel.app](https://persiangold.vercel.app) | TypeScript, Next.js |
-| AlAfaq | [alafaq.vercel.app](https://alafaq.vercel.app) | TypeScript, Next.js |
-| InfinityCleaning | [infinitycleaning.vercel.app](https://infinitycleaning.vercel.app) | TypeScript, Next.js |
+| Project | Live Link | Built With |
+|---------|-----------|------------|
+| PersianGold | [persiangold.vercel.app](https://persiangold.vercel.app) | Next.js · Vercel |
+| AlAfaq | [alafaq.vercel.app](https://alafaq.vercel.app) | Next.js · Vercel |
+| InfinityCleaning | [infinitycleaning.vercel.app](https://infinitycleaning.vercel.app) | Next.js · Vercel |
+| SimplyDebug | [simplydebug.vercel.app](https://simplydebug.vercel.app) | Next.js · Vercel |
 
 ---
 
 ## 🔭 Currently Building
-- AI video editing automation pipeline (FFmpeg + LLM scripting)
-- Full-stack CRM dashboard (FastAPI + Vite + Supabase)
+- **VideoEditorAI** — automated video editing pipeline using FFmpeg + LLM-generated scripts
+- **CRM Dashboard** — full-stack client management system (FastAPI + React + Supabase)
 
 ---
 
 <p align="center">
-  <i>Open to freelance, internship, and full-time opportunities in AI/Automation or Full-Stack development.</i>
+  <i>Open to freelance, internship, and full-time roles in AI/Automation or Python backend development.</i>
 </p>
