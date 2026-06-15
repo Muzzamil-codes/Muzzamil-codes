@@ -8,7 +8,7 @@
 <p align="center">
   <a href="mailto:md.muzzamil2007@gmail.com">📧 Email</a> •
   <a href="https://github.com/Muzzamil-codes">💻 GitHub</a> •
-  <a href="https://www.linkedin.com/in/muzzamil-codes">📢 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/mohammed-muzzamil-942230373/">📢 LinkedIn</a>
 </p>
 
 ---
@@ -21,10 +21,10 @@ I specialize in **AI automation** and **backend-driven applications** — things
 
 ## 🔥 Featured Projects
 
-### 🤖 [TeamSyncAI](https://github.com/Muzzamil-codes/TeamSyncAI)
-> WhatsApp chat analyzer powered by Google Gemini — extracts todos, calendar events, and enables RAG-based Q&A over your entire chat history via a streaming API.
+### 📽️ [Video Editor AI](https://github.com/Muzzamil-codes/TeamSyncAI)
+> Edits Videos using AI, adds subtitles, B rolls, Text Layers in prfect sync.
 
-`FastAPI` `LangChain` `Gemini 2.5` `React` `Streaming SSE` `RAG`
+`Python` `LangChain` `Gemini` `crewai` `FFMPEG` `opencv` `PILLOW`
 
 ---
 
@@ -39,13 +39,6 @@ I specialize in **AI automation** and **backend-driven applications** — things
 > Multi-agent system that researches leads and writes personalized cold email campaigns — fully controlled via Discord slash commands with background async processing.
 
 `Python` `CrewAI` `Gemini API` `Discord.py` `FastAPI`
-
----
-
-### 📝 [BlogMdMaker](https://github.com/Muzzamil-codes/BlogMdmaker)
-> AI-powered blog content generator — takes a topic prompt and produces a fully structured, markdown-formatted blog post ready to publish.
-
-`Python` `LLM` `Django` `Markdown`
 
 ---
 
@@ -82,8 +75,6 @@ I specialize in **AI automation** and **backend-driven applications** — things
 
 ---
 
-## 🔭 Currently Building
-- **VideoEditorAI** — automated video editing pipeline using FFmpeg + LLM-generated scripts
 - **CRM Dashboard** — full-stack client management system (FastAPI + React + Supabase)
 
 ---
